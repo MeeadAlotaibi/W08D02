@@ -56,5 +56,4 @@ module.exports = {
   login
 };
 
-///Done
 

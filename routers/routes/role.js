@@ -12,4 +12,3 @@ roleRouter.get("/role", getRoles);
 module.exports = roleRouter;
 
 
-// Done 

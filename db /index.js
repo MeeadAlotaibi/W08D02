@@ -24,4 +24,3 @@ mongoose.connect(process.env.DB, options).then(() => {
 });
 
 
-////// Done 

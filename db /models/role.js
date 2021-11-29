@@ -4,4 +4,3 @@ const role = new mongoose.Schema({
     Permissions:{type:Array}
 })
 module.exports=mongoose.model('Role', role)
-//////////////////// Done
