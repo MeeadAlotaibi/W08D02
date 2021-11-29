@@ -8,5 +8,5 @@ const options = {
 };
 
 mongoose.connect(process.env.DB_URI, options).then(() => {
-  console.log("DB CAN BE USE");
+  console.log("DB can be used now");
 });
